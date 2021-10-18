@@ -1,0 +1,14 @@
+
+body{
+	text-align: center;
+	padding-top: 14%;
+}
+
+h1{
+	font-size: 8vh;
+}
+
+#reset-btn{
+	margin-right: 15px;
+	margin-left: 15px;
+}
